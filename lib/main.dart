@@ -11,8 +11,8 @@ void main() {
     //mainAxisAlignment: MainAxisAlignment.center,
     //crossAxisAlignment: CrossAxisAlignment.center,
     children: [
-      img
-    //Text('ばななまん')
+    //  img
+    Text('ばななまん')
     ],
   );
 

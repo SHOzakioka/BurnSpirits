@@ -1,2 +1,2 @@
-# MealManagement for BurnSpirits
-トレーニーのトレーニーによるトレーニーのための食事管理Webアプリ
+# BurnSpirits
+トレーニーのための運動・食事・体組成のトータル管理アプリケーション

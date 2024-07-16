@@ -1,2 +1,2 @@
-# BurnSpirits
-トレーニング・食事・体組成をスマホ一つでトータルケアできるセルフケアアプリ
+# MealManagement for BurnSpirits
+トレーニーのトレーニーによるトレーニーのための食事管理Webアプリ
